@@ -1,0 +1,4 @@
+# PATH TO DIRECTORY WITH TEST FILES
+dataset_root_directory: "data/IBSR/"
+# PATH TO TRAINED MODEL
+model_path: "outputs/pre_trained/gamma_2.pth"
